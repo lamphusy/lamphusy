@@ -7,19 +7,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/[your-facebook-profile]" target="_blank">
+  <a href="https://www.facebook.com/[your-facebook-profile]">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="https://www.twitch.tv/[your-twitch-profile]" target="_blank">
+  <a href="https://www.twitch.tv/[your-twitch-profile]">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
-  <a href="https://discord.com/users/[your-discord-id]" target="_blank">
+  <a href="https://discord.com/users/[your-discord-id]">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:[your-email@gmail.com]" target="_blank">
+  <a href="mailto:[your-email@gmail.com]">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/[your-linkedin-profile]" target="_blank">
+  <a href="https://www.linkedin.com/in/[your-linkedin-profile]">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
