@@ -1,6 +1,4 @@
 <h1 align="center">Hello World! Thank you for visiting.</h1>
-<h2 align="left">About me</h2>
-
 <p align="left">Dedicated software engineer with a passion for leveraging technology to create meaningful impact on the world.<br>
 
 ###
