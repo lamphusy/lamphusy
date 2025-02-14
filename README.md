@@ -1,10 +1,11 @@
 <h2 align="center">Hello World! Thank you for visiting.</h2>
+<h3 align="left">About me</h3>
+
+<p align="left">Dedicated software engineer with a passion for leveraging technology to create meaningful impact on the world.<br>
 
 ###
 
 <h3 align="left">Connection</h3>
-
-###
 
 <div align="left">
   <a href="https://www.facebook.com/sylamphu/">
@@ -20,8 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
 
 <h3 align="left">Language and Tools</h3>
 
