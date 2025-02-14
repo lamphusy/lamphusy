@@ -1,11 +1,11 @@
-<h2 align="center">Hello World! Thank you for visiting.</h2>
-<h3 align="left">About me</h3>
+<h1 align="center">Hello World! Thank you for visiting.</h1>
+<h2 align="left">About me</h2>
 
 <p align="left">Dedicated software engineer with a passion for leveraging technology to create meaningful impact on the world.<br>
 
 ###
 
-<h3 align="left">Connection</h3>
+<h2 align="left">Connection</h2>
 
 <div align="left">
   <a href="https://www.facebook.com/sylamphu/">
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<h3 align="left">Language and Tools</h3>
+<h2 align="left">Language and Tools</h2>
 
 ###
 
