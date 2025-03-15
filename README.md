@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Connection</h2>
+<h3 align="left">Connection</h3>
 
 <div align="left">
   <a href="https://www.facebook.com/sylamphu/">
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h2 align="left">Language and Tools</h2>
+<h3 align="left">Language and Tools</h3>
 
 ###
 
