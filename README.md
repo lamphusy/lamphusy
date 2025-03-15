@@ -1,5 +1,5 @@
 ### Hey, I'm Sy Lam <a href="https://github.com/lamphusy"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> !
-<p align="center">Dedicated software engineer with a passion for leveraging technology to create meaningful impact on the world.<br>
+<p align="left">Dedicated software engineer with a passion for leveraging technology to create meaningful impact on the world.<br>
 
 ###
 
