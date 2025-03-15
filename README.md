@@ -27,14 +27,14 @@
 [![Programming Languages](https://skillicons.dev/icons?i=go,cs,js,react,docker,kubernetes,jenkins,vscode,mysql)](https://github.com/lamphusy)
 
 ###
-
+<!-- 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lamphusy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&rank_icon=github&custom_title=Sy%20Lam's%20GitHub%20Stats" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamphusy&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide=css&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
-<!-- 
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/9jufai.gif"  />
 </div>
