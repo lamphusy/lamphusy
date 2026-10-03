@@ -24,7 +24,7 @@
 
 ###
 
-[![Programming Languages](https://skillicons.dev/icons?i=go,cs,js,react,docker,kubernetes,jenkins,vscode,mysql)](https://github.com/lamphusy)
+[![Programming Languages](https://skillicons.dev/icons?i=go,cs,py,java,js,react,docker,kubernetes,jenkins,vscode,mysql)](https://github.com/lamphusy)
 
 ###
 <!-- 
